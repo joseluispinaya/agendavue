@@ -1,7 +1,7 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="d-flex flex-column justify-content-center align-items-center">
+      <h1 class="mt-4 mb-4">Practica Modulo 6</h1>
+      <img alt="Vue logo" src="../assets/logo.png">
   </div>
 </template>
 
